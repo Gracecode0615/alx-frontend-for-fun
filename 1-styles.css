@@ -3,9 +3,6 @@ a {
     text-decoration: none;
     color: #8a153a;
 }
-
-
-
 a::before {
     content: "";
     position: absolute;
